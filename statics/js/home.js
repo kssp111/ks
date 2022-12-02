@@ -1,7 +1,7 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://11.kssp11.com', "_self");
+            window.open(url, "_self");
         }
         document.getElementById("btnEnter2").onclick = function() {
             window.open('https://12.kssp12.com', "_self");
